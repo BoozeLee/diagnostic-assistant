@@ -2,16 +2,16 @@
 *Marco-o1 - 2026-02-20*
 
 ## What This Repo Does
-Support medical diagnosis with pattern recognition.
+Leverage pattern recognition for enhanced medical assistance.
 
 ## Price
-$2,499/month
+$2,999/month
 
 ## Brick Type
 Medical Diagnosis Support
 
 ## Gumroad Copy
-Assist in medical diagnoses with our advanced AI support.
+Empower your healthcare with AI-driven diagnostic tools.
 
 ## Build
 ```bash
